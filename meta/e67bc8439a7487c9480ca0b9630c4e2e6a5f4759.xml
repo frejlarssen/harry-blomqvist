@@ -1,0 +1,20 @@
+<record type="letter" format="pdf" name="e67bc8439a7487c9480ca0b9630c4e2e6a5f4759">
+	<from></from>
+	<to></to>
+
+	<sent></sent>
+	<received></received>
+
+	<language></language>
+	<transcript></transcript>
+
+	<translations>
+		<translation>sv</translation>
+		<translation>en</translation>
+	</translations>
+
+	<conversation>
+		<previous></previous>
+		<next></next>
+	</conversation>
+</record>
